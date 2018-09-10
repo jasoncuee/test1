@@ -2,6 +2,7 @@
 
 ## Introduction
 This is the introduction of git training
+More changes example after rebase.
 
 ## Purpose
 
