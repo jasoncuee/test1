@@ -13,6 +13,6 @@ As stated above, the main purpose is to provide one example of Git training demo
 Add a line to rebase. :)
 
 ### Copyright
-
+This is from Jasoncue use.
 
 Now it is 20180918. Changes made again.
